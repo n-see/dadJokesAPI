@@ -1,0 +1,14 @@
+body{
+    /* background-image: conic-gradient(red, orange, yellow, green, blue, indigo, purple);
+    background-repeat: no-repeat;
+    background-size: 100%; */
+    background-color:;
+
+}
+
+.mainCont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
