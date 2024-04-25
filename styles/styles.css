@@ -1,9 +1,9 @@
-body{
+html{
     /* background-image: conic-gradient(red, orange, yellow, green, blue, indigo, purple);
     background-repeat: no-repeat;
     background-size: 100%; */
-    background-color:;
-
+    background-image: radial-gradient(red, orange, yellow, green, blue, indigo, purple);
+    height: 100vh;
 }
 
 .mainCont{
@@ -11,4 +11,12 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    height: 45rem;
+}
+
+.jokeBtn{
+    background-color: aqua;
+    border-radius: 10px;
+    height: 45px;
+    width: 100px;
 }
